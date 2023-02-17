@@ -1,0 +1,13 @@
+deal_id,client_id,lawyer_id,complexity,total_price,comment_
+1,4,1,yellow,NULL,"some comment 1"
+2,10,2,green,NULL,"some comment 2"
+4,9,5,red,NULL,"some comment 4"
+5,7,8,yellow,NULL,"some comment 5"
+7,17,22,orange,NULL,"some comment 7"
+8,13,16,orange,NULL,"some comment 8"
+10,3,11,yellow,NULL,"some comment 10"
+11,9,5,red,NULL,"some comment 11"
+12,8,2,green,NULL,"some comment 12"
+13,11,5,red,NULL,"some comment 13"
+14,16,16,orange,NULL,"some comment 14"
+15,20,24,yellow,NULL,"some comment 15"

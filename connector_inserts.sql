@@ -1,0 +1,36 @@
+INSERT INTO main_connector
+VALUE (1, 1, 8, NULL, NULL,NULL),
+	  (2, 1, 9, 1, 5, NULL),
+      (3, 2, 5, NULL, NULL,NULL),
+  
+      (6, 4, 2, NULL, NULL,NULL),
+      (7, 4, 10, 2, 10, NULL),
+      (8, 4, 5, NULL, NULL, NULL),
+      (9, 4, 1, 2, 10, NULL),
+      (10, 5, 7, NULL, NULL, NULL),
+      (11, 5, 6, 4, 5, NULL),
+  
+      (13, 7, 5, NULL, NULL,NULL),
+      (14, 7, 8, NULL, NULL,NULL),
+      (15, 7, 9, 3, 9, NULL),
+      (16, 8, 1, 3, 10, NULL),
+      (17, 8, 6, 5, 19, NULL),
+      (18, 8, 5, NULL, NULL, NULL),
+      
+      (20, 10, 5, NULL, NULL, NULL),
+      (21, 10, 2, NULL, NULL, NULL),
+      (22, 11, 10, 3, 20, NULL),
+      (23, 11, 2, NULL, NULL, NULL),
+      (24, 11, 1, 2, 13, NULL),
+      (25, 11, 8, NULL, NULL, NULL),
+      (26, 12, 7, NULL, NULL, NULL),
+      (27, 13, 4, NULL, NULL, NULL),
+      (28, 13, 6, 4, 19, NULL),
+      (29, 13, 7, NULL, NULL, NULL),
+      (30, 13, 8, 5, 10, NULL),
+      (31, 14, 1, 1, 9, NULL),
+      (32, 14, 5, NULL, NULL, NULL),
+      (33, 14, 7, NULL, NULL, NULL),
+      (34, 15, 5, NULL, NULL, NULL),
+      (35, 15, 9, 3, 7, NULL);
+    
